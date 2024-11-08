@@ -1,9 +1,9 @@
 from setuptools import setup
 
-from dsss_homework_2 import __version__
+from math_quiz import __version__
 
 setup(
-    name='dsss_homework_2',
+    name='math_quiz',
     version=__version__,
 
     url='https://github.com/MedTech02/dsss_homework_2',
