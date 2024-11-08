@@ -1,6 +1,6 @@
 from setuptools import setup
 
-from my_pip_package import __version__
+from dsss_homework_2 import __version__
 
 setup(
     name='dsss_homework_2',
